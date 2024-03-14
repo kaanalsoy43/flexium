@@ -1,6 +1,3 @@
-# Turkey DATA
-Turkey Data with Optional Panel Script
-
 ## Requirements
 - XAMPP
 - A little bit of knowledge
