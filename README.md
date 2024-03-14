@@ -7,7 +7,7 @@ If you're Turkish, then read the ["README-TR.md"](https://github.com/WH0LEWHALE/
 
 > [!WARNING]
 > Since it's illegal to publish, Here you can Decode this Base64 code from any Base64 Decoder:<br>
-> Dont Forget to Decode 5 times!
+> Dont Forget to Decode 5 or 6 times!
 
 **BASE64:**<br>
 ```
@@ -24,7 +24,7 @@ Vm10YVlWVXhSblJXYTJoVVlrWmFjRlJYTVZOU1ZteHpXa2MxYTAxWVFrZFpWVlpQWWtkR05tSklaRlZO
 - **[OPTIONAL]** Panel Script from **November 2023** **(Because i lost the new one 😢, VDS Accident.)**
   - SHA1: `224fae58ec55f0aa2b2da7769097752c2b6ca27f` 
 
-*(Decode the BASE64 Code Above 5 times to access the files.)*
+*(Decode the BASE64 Code Above 5 or 6 times to access the files.)*
 
 # Installation Tutorial
 
