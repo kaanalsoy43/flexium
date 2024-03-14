@@ -11,6 +11,7 @@ You can see the down below for some tutorial and something.
 - XAMPP
 - a Little bit of Knowledge about MySQL and XAMPP
 - **[FOR PANEL]** Turkish Language Knowledge (You can translate if u want.)
+- Base64 Decoder: https://www.base64decode.org/
 
 > [!WARNING]
 > Since it's illegal to publish, Here you can Decode this Base64 code from any Base64 Decoder:<br>
