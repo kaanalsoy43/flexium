@@ -1,8 +1,8 @@
 ## Gereksinimler
--XAMPP
+- XAMPP
 - MySQL ve XAMPP hakkında biraz bilgi
 
-> [!UYARI]
+> [!WARNING]
 > Yayınlanması yasa dışı olduğundan, bu Base64 kodunu herhangi bir Base64 Kod Decodeleyicisinden Decode Edebilirsiniz:<br>
 > 5 kez Decode Etmeyi Unutmayın!
 
