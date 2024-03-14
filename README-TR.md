@@ -2,7 +2,7 @@
 
 *Merhaba, ben WH0LEWHALE; ne olmuş yani?*<br>
 Bazı çirkin şişman maymunlar dolandırıcılık yapıyor ve bu datayı ve scripti yüzlerce Türk Lirası'na satıyorlar, o yüzden bedavaya veriyorum.<br>
-**Kimseden bedava olan bir şeyi satın almayın, bu bir hayat dersidir. İnternette biraz gezinin ve ücretsiz olarak bulun.**
+**Kimseden bedava olan bir şeyi satın almayın, bu bir hayat dersidir. İnternette biraz gezinin ve ücretsiz olarak bulun.**<br>
 Bazı eğitimler ve başka şeyler için aşağıdakileri görebilirsiniz.
 
 ## Gereksinimler
