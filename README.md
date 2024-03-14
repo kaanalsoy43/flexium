@@ -56,7 +56,7 @@ You should listen carefully.
 ![image](https://github.com/WH0LEWHALE/turkey-data/assets/146978592/a9378cf8-63cd-4b72-ac12-c7945531d787)
 
 9. Choose "users" Table, This is where you can edit the users of the panel.
-10. Enter to **127.0.0.1** and you need to see a login page, Type "31sj" to the Key Textbox (You can change the password by playing with users table a little bit)
+10. Type **127.0.0.1** to your browser search bar, and you need to see a login page, Type "31sj" to the Key Textbox. (You can change the password by playing with users table a little bit)
 
 # Epilogue
 
