@@ -26,7 +26,7 @@ That's the place where this getting spicy.<br>
 You should listen carefully.
 
 1. Download XAMPP from here: https://www.apachefriends.org/download.html
-2. Install XAMPP and turn on "Apache" and "MySQL"
+2. Install XAMPP and turn on **"Apache" and "MySQL"**.
 3. Now you can continue reading the tutorial.
 
 ## Data
@@ -42,7 +42,7 @@ You should listen carefully.
 #### secmen.7z
 1. Locate to <b>C:\xampp\mysql</b>
 2. Drag or Extract the folder inside of **secmen2015.7z** to **C:\xampp\mysql\data\mysql**
-3. Rename "secmen" folder to "secmen2015"
+3.**Rename "secmen" folder to "secmen2015"**
 
 
 ### Panel Installation/Usage
@@ -50,13 +50,13 @@ You should listen carefully.
 *(You can skip this if you dont want to use panel)*
 
 1. Locate to **C:\xampp\htdocs**
-2. Put all the contents in the "javeling.zip" to htdocs folder.
+2. Put all the contents in the **"javeling.zip"** to htdocs folder.
 3. Go to **127.0.0.1/phpmyadmin**
 4. Press "New" at the Top Left
 5. Create Database that has name "dehatuzcu"
 6. Open "dehatuzcu" Database and Select "Import" at the Top
-7. Download [dehatuzcu.txt](https://github.com/WH0LEWHALE/turkey-data/files/14607283/dehatuzcu.txt) (SQL File)
-8. Rename "dehatuzcu.txt" to "dehatuzcu.sql"
+7. **Download [dehatuzcu.txt](https://github.com/WH0LEWHALE/turkey-data/files/14607283/dehatuzcu.txt) (SQL File)**
+8. **Rename "dehatuzcu.txt" to "dehatuzcu.sql"**
 9. Import the dehatuzcu.sql
 
 **Now you should have a appearance like this:**
