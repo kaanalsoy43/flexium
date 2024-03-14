@@ -1,7 +1,7 @@
 ## Requirements
 - XAMPP
 - a Little bit of Knowledge about MySQL and XAMPP
-- [FOR PANEL] Turkish Language Knowledge (You can translate if u want.)
+- **[FOR PANEL]** Turkish Language Knowledge (You can translate if u want.)
 
 > [!WARNING]
 > Since it's illegal to publish, Here you can Decode this Base64 code from any Base64 Decoder:<br>
@@ -11,6 +11,14 @@
 ```
 VmtaYVUxRnRWa2hUYkZacFRXMVNSVmxzWkc1a01YQkdZVVZPYkdGNmJIZFVNR2hoV1ZaT1JtTklaR0ZTZWtaWFdrWmtVMWRXVW5SbFIzQnBWbFJWZVZkWE1ERlZNa3BJVTI1V1ZsZEdXbWhVVjNCelRXeGtjVk5xVW1sU1dHZ3dWa2MxWVdGV1ZqWmlTRXBhWVdzMWNscEdaRXRUUlRsWVlVZEdVMUpIZUROV01uUlNaREpXU0ZScVdsVmlWRVp3VkZaYVdtVldVWGRoU0VwUFVsUnNXRlZ0Y0ZkV1ZrcDBZVVpLVjFKRk5YWlhWbHB6VmpGR1dXTkhkR2hOUm5CaFZtMXdUMkl5VWtkVmJrNVFWbnBHWVZsdGRFZGtSbVJ6WVVjNWEwMXJiRFpWTW5CRFZWWlplRk5xU21GU1JXdDRXWHBLU21WV1NuUmtSVkpoVFRCS00xZFhkR3RPUjBwSFlqTnNVMkpyTlhGVmFrNXZZakZ3UmxwSFJtdGlWVFV3VkZaa1lXRkdTWGRYYmtaYVZrVndXRnBXV25kVFJscDBaRWRHVjFKV2NIUldNbkJQVkRKU1JrOVlRbEpXV0ZKdlZUQmFTbVF4YTNkaFJUVlBZVE5uTVZReFpEQmhiVXBZWkROc1dHSkZNSGhaYlRGS1pWVTVXRTVYYkZOTlZsbDRWakZTU2s1WFVrWmtNMnhZWW10S2NGVnFSbGROYkdSeVZGUlNiRkp0VWpGVk1uaHZZVzFGZVZvemJGWmhNVXBJVmxaVmVGZEdWblJTYkVwWFVsWndWRlpzWXpGV01sSkhWR3RzYWxOR2NGUlVWV2hQVFRGc2MyRkZaRmRXYTNCNVZsY3hNR0ZzV1hkV2FrcGhVbnBHZWxsclpGTk9WbXcyV2tWU1lVMHdTVEpXTW5oclZESlNSMk5HYUU5VFIzaFBWV3RXVm1WR1VYbGFTR1JwVFd4S1NsWlhOV3RoYlZaMFQxUktWVkpGYkRSWmExcDJaVlpLV1ZadGJHbGlWR3Q1VmpJd2VHTXlUWGhqUmxKUVZsUkdVRmxyVmxwTmJHeFhWbXBTYUZKcldYcFpNRlpoWVZkS1ZrNVVWbUZXYldoRVZGVmtSMWRGT1ZsV2EzQlRWMFpLZWxkc1drOVJNa3BZVTFod1ZGWXlVbFpXYkZwaFUxWldWMVZ1V21GTldFSllWREJTUjJGc1duSlRhemxZWWtkU1UxcFhjM2hUUjFKSFZHMTBUazB3UmpaV2EyUTBWVEZrV0ZKWWJGVmlSVXB3VkZaa1VtVkdXbFphUjNSVVVsUldTVlpIY3pGVWJGcHpVMnRvVmsxcVZqTmFWbHBoVWxkR1JtTkdTbWhpV0dneFZsZDRSMlJzVFhoVldIQlNZV3RLYjFadWNITk5WbVJYV2tST1lVMVdXa2xWYlRWWFdWWlplbHBITlZkV1JYQlFXbFprUjFkV1JuRlJiRUpoVFRCS01sZHJWbTlWTWxGNVZHcGFhVTB4Y0U1VVYzQkhZekZrY1ZOcldtdFdNSEF4V1dwT1lWbFhTbGhsU0hCWVlrVXdNVlpyWkVkV01rcEdWMnMxYVZaV2J6RldWM1JIWkRGS2RGTnVVbFZpYlhoelZqQldTbVF4YkZkWmVsWnJWbGQ0UjFwRlpEUmlSbFYzVTI1U1dtRnJOVXRYYWtaVFZteGFjbUZHU2xkU2VteDFWbFJLTUZOck1IaFNiR3hUVjBkNGFGVnVjSE5PYkZwR1drVTVhV0pHY0hwWGFrNXJWakZPU0dWRldsZE5ibEl6Vkd4a1MyUkhWa1ZXYkU1cFVsWndlVmRyVmxkU2F6VlhWV3RzVkdKVldsVlZhMlEwWXpGYVdFNVhPVkpOVmxwWVYyNXdTMkV5VWpaTlJHczk=
 ```
+
+# Contents
+- 101m.zip = 101 Million HSYS Data
+- illegalplatform_hackerdede1_gsm.rar = 120 Million GSM Data for Turkey
+- secmen.7z = Turkey 2015 Election Data
+- **[OPTIONAL]** Panel Script from **November 2023** **(Because i lost the new one 😢)**
+
+*(Decode the BASE64 Code from the Top for 5 times to access the files.)*
 
 # Installation Tutorial
 
@@ -27,7 +35,7 @@ You should listen carefully.
 1. Locate to <b>C:\xampp\mysql</b>2
 2. Drag or Extract the folder inside of **101m.zip** to **C:\xampp\mysql\data\mysql**
 
-#### illegalplatform_hackerdede1_gsm
+#### illegalplatform_hackerdede1_gsm.rar
 1. Locate to <b>C:\xampp\mysql</b>2
 2. Drag or Extract the folder inside of **illegalplatform_hackerdede1_gsm.rar** to **C:\xampp\mysql\data\mysql**
 
