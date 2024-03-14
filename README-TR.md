@@ -4,7 +4,7 @@
 
 > [!WARNING]
 > Yayınlanması yasa dışı olduğundan, bu Base64 kodunu herhangi bir Base64 Kod Decodeleyicisinden Decode Edebilirsiniz:<br>
-> 5 kez Decode Etmeyi Unutmayın!
+> 5 yada 6 kez Decode Etmeyi Unutmayın!
 
 **BASE64:**<br>
 ```
@@ -21,7 +21,7 @@ Vm10YVlWVXhSblJXYTJoVVlrWmFjRlJYTVZOU1ZteHpXa2MxYTAxWVFrZFpWVlpQWWtkR05tSklaRlZO
 - **[İSTEĞE BAĞLI]** **Kasım 2023**'ten Kalmış Panel Script'i **(Çünkü yenisini kaybettim 😢, VDS Kazası.)**
   - SHA1: `224fae58ec55f0aa2b2da7769097752c2b6ca27f` 
 
-*(Dosyalara erişmek için Yukarıda BASE64 Kodunu 5 defa Decodeleyin.)*
+*(Dosyalara erişmek için Yukarıda BASE64 Kodunu 5 yada 6 defa Decodeleyin.)*
 
 # Kurulum Eğitimi
 
