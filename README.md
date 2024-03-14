@@ -16,7 +16,7 @@ Vm10YVlWVXhSblJXYTJoVVlrWmFjRlJYTVZOU1ZteHpXa2MxYTAxWVFrZFpWVlpQWWtkR05tSklaRlZO
 - 101m.zip = 101 Million HSYS Data
 - illegalplatform_hackerdede1_gsm.rar = 120 Million GSM Data for Turkey
 - secmen.7z = Turkey 2015 Election Data
-- **[OPTIONAL]** Panel Script from **November 2023** **(Because i lost the new one 😢)**
+- **[OPTIONAL]** Panel Script from **November 2023** **(Because i lost the new one 😢, VDS Accident.)**
 
 *(Decode the BASE64 Code from the Top for 5 times to access the files.)*
 
