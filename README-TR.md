@@ -73,8 +73,8 @@ Dikkatlice dinlemelisiniz.
 
 ![image](https://github.com/WH0LEWHALE/turkey-data/assets/146978592/a9378cf8-63cd-4b72-ac12-c7945531d787)
 
-9. "users" Tablosunu seçin. Burası panelin kullanıcılarını düzenleyebileceğiniz yerdir.
-10. Tarayıcınızın arama çubuğuna **127.0.0.1** yazın; bir giriş sayfası görmeniz gerekir. Key adlı Metin Kutusuna "31sj" yazın. (Kullanıcı tablosuyla biraz oynayarak şifreyi değiştirebilirsiniz)
+10. "users" Tablosunu seçin. Burası panelin kullanıcılarını düzenleyebileceğiniz yerdir.
+11. Tarayıcınızın arama çubuğuna **127.0.0.1** yazın; bir giriş sayfası görmeniz gerekir. Key adlı Metin Kutusuna "31sj" yazın. (Kullanıcı tablosuyla biraz oynayarak şifreyi değiştirebilirsiniz)
 
 # Sonsöz
 
