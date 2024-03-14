@@ -39,13 +39,17 @@ You should listen carefully.
 
 ### Panel Installation/Usage
 
-1. Go to **127.0.0.1/phpmyadmin**
-2. Press "New" at the Top Left
-3. Create Database that has name "dehatuzcu"
-4. Open "dehatuzcu" Database and Select "Import" at the Top
-5. Download [dehatuzcu.txt](https://github.com/WH0LEWHALE/turkey-data/files/14607283/dehatuzcu.txt) (SQL File)
-6. Rename "dehatuzcu.txt" to "dehatuzcu.sql"
-7. Import the dehatuzcu.sql
+*(You can skip this if you dont want to use panel)*
+
+1. Locate to **C:\xampp\htdocs**
+2. Put all the contents in the "javeling.zip" to htdocs folder.
+3. Go to **127.0.0.1/phpmyadmin**
+4. Press "New" at the Top Left
+5. Create Database that has name "dehatuzcu"
+6. Open "dehatuzcu" Database and Select "Import" at the Top
+7. Download [dehatuzcu.txt](https://github.com/WH0LEWHALE/turkey-data/files/14607283/dehatuzcu.txt) (SQL File)
+8. Rename "dehatuzcu.txt" to "dehatuzcu.sql"
+9. Import the dehatuzcu.sql
 
 **Now you should have a appearance like this:**
 
@@ -54,4 +58,12 @@ You should listen carefully.
 9. Choose "users" Table, This is where you can edit the users of the panel.
 10. Enter to **127.0.0.1** and you need to see a login page, Type "31sj" to the Key Textbox (You can change the password by playing with users table a little bit)
 
+# Epilogue
+
+*Now you have all the files/folders that you need, now if you reading this i wanna say something, there is a secret folder called "files" in the Panel script, that folder contains:*
+
+- draco.rar\draco.lua = Famous Influencers ID/TC 45+
+- egitimseti.txt = Hacker Tools
+- fakeno.txt = How to buy Fake NO (+1) Tutorial
+- smsbomb.rar = SMS Bomb as usual, only works for (+90) numbers.
 
