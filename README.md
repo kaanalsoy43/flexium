@@ -1,4 +1,4 @@
-If you're Turkish, then read this README: https://github.com/WH0LEWHALE/turkey-data/blob/main/READMEtr.md
+If you're Turkish, then read the ["README-TR.md"](https://github.com/WH0LEWHALE/turkey-data/blob/main/README-TR.md).
 
 ## Requirements
 - XAMPP
