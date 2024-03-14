@@ -1,3 +1,5 @@
+If you're Turkish, then read this README: https://github.com/WH0LEWHALE/turkey-data/blob/main/READMEtr.md
+
 ## Requirements
 - XAMPP
 - a Little bit of Knowledge about MySQL and XAMPP
@@ -18,7 +20,7 @@ Vm10YVlWVXhSblJXYTJoVVlrWmFjRlJYTVZOU1ZteHpXa2MxYTAxWVFrZFpWVlpQWWtkR05tSklaRlZO
 - secmen.7z = Turkey 2015 Election Data
 - **[OPTIONAL]** Panel Script from **November 2023** **(Because i lost the new one 😢, VDS Accident.)**
 
-*(Decode the BASE64 Code from the Top for 5 times to access the files.)*
+*(Decode the BASE64 Code Above 5 times to access the files.)*
 
 # Installation Tutorial
 
@@ -59,7 +61,7 @@ You should listen carefully.
 8. **Rename "dehatuzcu.txt" to "dehatuzcu.sql"**
 9. Import the dehatuzcu.sql
 
-**Now you should have a appearance like this:**
+**It should look like this:**
 
 ![image](https://github.com/WH0LEWHALE/turkey-data/assets/146978592/a9378cf8-63cd-4b72-ac12-c7945531d787)
 
@@ -68,10 +70,9 @@ You should listen carefully.
 
 # Epilogue
 
-*Now you have all the files/folders that you need, now if you reading this i wanna say something, there is a secret folder called "files" in the Panel script, that folder contains:*
+*Now you have all the files/folders that you need, now if you reading this i wanna say something, there is a secret folder called "files" in the Panel script (in htdocs), that folder contains:*
 
 - draco.rar\draco.lua = Famous Influencers ID/TC 45+
 - egitimseti.txt = Hacker Tools
 - fakeno.txt = How to buy Fake NO (+1) Tutorial
 - smsbomb.rar = SMS Bomb as usual, only works for (+90) numbers.
-
