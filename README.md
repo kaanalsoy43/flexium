@@ -1,7 +1,7 @@
 ## Requirements
 - XAMPP
-- A little bit of knowledge
-- Translate to turkish if u dont know turkish language.
+- a Little bit of Knowledge about MySQL and XAMPP
+- [FOR PANEL] Turkish Language Knowledge (You can translate it too)
 
 > [!WARNING]
 > Since it's illegal to publish, Here you can Decode this Base64 code from any Base64 Decoder:<br>
