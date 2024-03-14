@@ -32,15 +32,15 @@ You should listen carefully.
 ## Data
 
 #### 101m.zip
-1. Locate to <b>C:\xampp\mysql</b>2
+1. Locate to <b>C:\xampp\mysql</b>
 2. Drag or Extract the folder inside of **101m.zip** to **C:\xampp\mysql\data\mysql**
 
 #### illegalplatform_hackerdede1_gsm.rar
-1. Locate to <b>C:\xampp\mysql</b>2
+1. Locate to <b>C:\xampp\mysql</b>
 2. Drag or Extract the folder inside of **illegalplatform_hackerdede1_gsm.rar** to **C:\xampp\mysql\data\mysql**
 
 #### secmen.7z
-1. Locate to <b>C:\xampp\mysql</b>2
+1. Locate to <b>C:\xampp\mysql</b>
 2. Drag or Extract the folder inside of **secmen2015.7z** to **C:\xampp\mysql\data\mysql**
 3. Rename "secmen" folder to "secmen2015"
 
