@@ -8,6 +8,7 @@ Bazı eğitimler ve başka şeyler için aşağıdakileri görebilirsiniz.
 ## Gereksinimler
 - XAMPP
 - MySQL ve XAMPP hakkında biraz bilgi
+- Base64 Decodeleyici: https://www.base64decode.org/
 
 > [!WARNING]
 > Yayınlanması yasa dışı olduğundan, bu Base64 kodunu herhangi bir Base64 Kod Decodeleyicisinden Decode Edebilirsiniz:<br>
