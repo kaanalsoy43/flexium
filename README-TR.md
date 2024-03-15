@@ -52,8 +52,8 @@ Dikkatlice dinlemelisiniz.
 
 #### secmen.7z
 1. <b>C:\xampp\mysql</b> dizinini bulun
-2. **secmen2015.7z** içindeki klasörü **C:\xampp\mysql\data\mysql** konumuna sürükleyin veya çıkarın.
-3.**"secmen" klasörünü "secmen2015" olarak yeniden adlandırın**
+2. **secmen.7z** içindeki klasörü **C:\xampp\mysql\data\mysql** konumuna sürükleyin veya çıkarın.
+3. **"secmen" klasörünü "secmen2015" olarak yeniden adlandırın**
 
 ### Panel Kurulumu/Kullanımı
 
