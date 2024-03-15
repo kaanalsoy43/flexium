@@ -56,7 +56,7 @@ You should listen carefully.
 #### secmen.7z
 1. Locate to <b>C:\xampp\mysql</b>
 2. Drag or Extract the folder inside of **secmen.7z** to **C:\xampp\mysql\data\mysql**
-3.**Rename "secmen" folder to "secmen2015"**
+3. **Rename "secmen" folder to "secmen2015"**
 
 
 ### Panel Installation/Usage
