@@ -86,5 +86,5 @@ You should listen carefully.
 
 - draco.rar\draco.lua = Famous Influencers ID/TC 45+
 - egitimseti.txt = Hacker Tools
-- fakeno.txt = How to buy Fake NO (+1) Tutorial
+- fakeno.txt = How to buy Fake Telephone Number (+1) Tutorial
 - smsbomb.rar = SMS Bomb as usual, only works for (+90) numbers.
