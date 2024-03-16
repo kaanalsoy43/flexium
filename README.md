@@ -2,7 +2,7 @@ If you're Turkish, then read the ["README-TR.md"](https://github.com/WH0LEWHALE/
 
 # Preface
 
-*Hello, im am WH0LEWHALE; so what?*<br>
+*Hello, i'm WH0LEWHALE; so what?*<br>
 Some ugly fat monkeys doing some fraud and selling this data's and script for hundreds of Turkish Liras, So im giving it for free.<br>
 **Dont buy any free stuff from anyone, this is a life lesson. Just surf on the internet a little bit and find it for free.**<br>
 You can see the down below for some tutorial and something.
